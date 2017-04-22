@@ -1,0 +1,8 @@
+D:\Onedrive\Works\SameGame\SameGame\SameGame\bin\Release\SameGame.exe.config
+D:\Onedrive\Works\SameGame\SameGame\SameGame\bin\Release\SameGame.exe
+D:\Onedrive\Works\SameGame\SameGame\SameGame\bin\Release\SameGame.pdb
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Release\SameGame.frmSameGame.resources
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Release\SameGame.Properties.Resources.resources
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Release\SameGame.csproj.GenerateResource.Cache
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Release\SameGame.exe
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Release\SameGame.pdb

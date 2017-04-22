@@ -1,0 +1,9 @@
+D:\Onedrive\Works\SameGame\SameGame\SameGame\bin\Debug\SameGame.exe.config
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Debug\SameGame.csprojResolveAssemblyReference.cache
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Debug\SameGame.Properties.Resources.resources
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Debug\SameGame.csproj.GenerateResource.Cache
+D:\Onedrive\Works\SameGame\SameGame\SameGame\bin\Debug\SameGame.exe
+D:\Onedrive\Works\SameGame\SameGame\SameGame\bin\Debug\SameGame.pdb
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Debug\SameGame.exe
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Debug\SameGame.pdb
+D:\Onedrive\Works\SameGame\SameGame\SameGame\obj\Debug\SameGame.frmSameGame.resources
